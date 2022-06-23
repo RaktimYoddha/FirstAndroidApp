@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <string name="hello_android">Hello android!</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="hello">hello</string>
+    <string name="submit">submit</string>
+    <string name="helloz">hello!!</string>
+    <string name="hellom">hello!!</string>
+    <string name="hey_there_whats_up">Hey there whats up!!</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="user_name">User Name</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="user_namew">User Name</string>
+    <string name="view_offers">View Offers</string>
+</resources>
