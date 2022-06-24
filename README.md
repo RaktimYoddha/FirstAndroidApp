@@ -28,6 +28,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Learnings
 
 1.Learned about Basic android studio and kotlin
+
 2.Learned how to edit xml layout
+
 3.linked a seperate page to a button
 
