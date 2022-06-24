@@ -9,8 +9,11 @@ Time spent: **1** hours spent in total
 ## Functionality
 
 🔹 Ther user will get a hello screen where he can enter his name and submit
+
 🔹 After submitting he will get a welcome message
+
 🔹 An extra button is immidiately added to the bottom after submiting the name that which will direct the user to a different page with a message
+
 🔹 If the user press submit without entering any name it will show a pop up notification requesting user to enter a name
 
 
